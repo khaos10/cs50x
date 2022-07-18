@@ -1,0 +1,4 @@
+Prompt user for hight
+    Repeat until the user enters an integer between 1 and 8 inclusive
+Print n hashes on n-th line and go to the new line
+    Repeat a user-defined number of times (between 1 and 8) 
